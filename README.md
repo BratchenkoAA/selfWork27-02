@@ -243,7 +243,7 @@ ORDER BY t.priority, t.due_date;
 <img width="1830" height="461" alt="image" src="https://github.com/user-attachments/assets/944211c8-c0af-4483-bf83-e29d9ac10ad3" />
 
 Создан дашборд "Управление проектами", объединяющий все чарты для комплексного анализа данных.
-
+https://datalens.ru/ae1mifmg50fwu-novyy-dashbord-11?state=577088d656
 ---
 
 ## 9. Выводы
